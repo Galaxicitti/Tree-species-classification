@@ -62,7 +62,7 @@ Built with modern ML frameworks and deployed as an interactive web application.
 
 ```bash
 # Clone the repository
-git clone https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION.git
+git clone [(https://github.com/Galaxicitti/Tree-species-classification)](https://github.com/Galaxicitti/Tree-species-classification)
 cd TREE_SPECIES_CLASSIFICATION
 
 # Install dependencies
