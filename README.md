@@ -393,22 +393,14 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📧 Contact & Support
 
-**Author**: Satyam Pandey  
-**GitHub**: [@SatyamPandey-07](https://github.com/SatyamPandey-07)  
-**Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION)
+**Author**: Galaxy Rawat  
+**GitHub**: [@SatyamPandey-07](https://github.com/galaxicitti)  
 
-### Getting Help
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION/discussions)
-- 📧 **General Questions**: Contact via GitHub
+
+
 
 ---
 
