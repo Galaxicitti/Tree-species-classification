@@ -236,7 +236,7 @@ joblib>=1.3.0          # Model serialization
 ### Step 1: Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION.git
+git (https://github.com/Galaxicitti/Tree-species-classification)
 cd TREE_SPECIES_CLASSIFICATION
 
 # Create virtual environment (recommended)
