@@ -397,7 +397,7 @@ We welcome contributions! Here's how you can help:
 ## 📧 Contact & Support
 
 **Author**: Galaxy Rawat  
-**GitHub**: [@SatyamPandey-07](https://github.com/galaxicitti)  
+**GitHub**: [galaxicitti](https://github.com/galaxicitti)  
 
 
 
